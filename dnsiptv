@@ -249,7 +249,6 @@ http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные", ПЕРВЫЙ КАНАЛ HD
-#EXTINF:-1 group-title="📺Эфирные", ПЕРВЫЙ КАНАЛ HD
 https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MDU0NDkzOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5OTQwMTM4LCJzZXNzaW9uX2lkIjoiNjRjMDg4ZjM1YTI2Y2Q5YmI1YmEwNGFiNmQwZmU2ZGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.m1vGsp6ZzmcrwAjKQz1kVhj6bXm18RkPIuiBPpjaS9E
 #EXTINF:-1 group-title="📺Эфирные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEiYTIESDO57cjDxl6rt9ozcsid2uuOMrRg&s" , Первый канал Европа
 #EXTVLCOPT:http-user-agent=KizugTV
